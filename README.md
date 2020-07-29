@@ -1,1 +1,4 @@
 # stm32-onenet
+STM32F103VET6+中移M5311NB-IOT模组连接移动OnenNet平台程序
+使用DHt11温湿度传感器与BH1750光照传感器
+使用STM32 HAL库开发
